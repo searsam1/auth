@@ -1,0 +1,11 @@
+SESSIONS & COOKIES VS. LOCALSTORAGE
+Introduction
+How do web applications keep a user logged in? How does a shopping site remember what’s in your cart? And how is this done securely?
+
+In this lesson, we’ll define what a web session is, what cookies are, and how cookies are used to improve session management.
+
+We will also compare cookies with localStorage, a more recent way for the browser to organize client-side data.
+
+Every web developer needs to understand how to securely implement sessions and work with client-side data!
+
+Let’s get started!
